@@ -1,0 +1,9 @@
+# Metin dosyalarında satır sonlarını tutarlı tut
+* text=auto
+
+*.html text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# İkili dosyalar
+*.png binary

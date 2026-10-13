@@ -1,0 +1,28 @@
+# ------------------------------------------------------------------
+# Gerçek sözleşmeler ve taranmış belgeler ASLA depoya eklenmemeli.
+# Bunlar ad-soyad, T.C. kimlik no, telefon, IBAN ve imza içerir.
+# ------------------------------------------------------------------
+*.pdf
+*.docx
+*.doc
+*.odt
+*.jpg
+*.jpeg
+*.heic
+
+# Taranmış örnek sözleşme (kişisel veri içerir, yalnızca yerelde kalır)
+new format.pdf
+
+# Uygulamadan indirilen PDF çıktıları
+Kira Sözleşmesi*.pdf
+
+# İşletim sistemi dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editör / araç klasörleri
+.vscode/
+.idea/
+*.swp
+*~
