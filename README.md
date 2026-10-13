@@ -173,18 +173,6 @@ Ardından tarayıcıda `http://localhost:8000/kira-sozlesmesi.html` adresini aç
 
 **Değişiklikten sonra kontrol listesi:** alanlar önizlemeye geçiyor mu; PDF 5 sayfa çıkıyor mu ve hiçbir sayfa taşmıyor mu; aidat *Evet/Hayır* ile madde 16 ve 15/16 sayısı doğru değişiyor mu; 🗑 onay şeridi çalışıyor mu; telefon genişliğinde (≈375 px) sayfa yana taşıyor mu.
 
-## GitHub Desktop ile yayınlama
-
-Depo yerelde hazırdır (`main` dalı, ilk commit atılmış).
-
-1. GitHub Desktop → **File → Add local repository…** → bu klasörü seçin → **Add repository**.
-2. Üstteki **Publish repository** düğmesine basın.
-3. Ad (ör. `kira-sozlesmesi-olusturucu`) ve açıklama girin. Herkese açık olsun istemiyorsanız **Keep this code private** seçili kalsın. GitHub Pages'i ücretsiz hesapla kullanmak için bu seçeneğin işaretini kaldırmanız gerekir.
-4. **Publish repository** ile gönderin.
-
-Sonraki değişikliklerde GitHub Desktop'ta değişen dosyaları gözden geçirin, bir özet yazıp **Commit to main**, ardından **Push origin** yapın.
-
-> Yayınlamadan önce **Changes** sekmesinde gerçek bir sözleşme, PDF veya fotoğraf olmadığından emin olun.
 
 ## Hukuki not
 
